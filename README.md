@@ -12,3 +12,12 @@ Module repository
 - linux services
 - linux permissions
 - searching Filesystem 
+
+## Session 2a – Total Cost of Ownership (TCO)
+
+- Created a TCO spreadsheet comparing Prem, Cloud A and Cloud B.
+- Calculated monthly and yearly costs for each option.
+- Used formulas to find total cost for On-Prem, Cloud A and Cloud B.
+- Calculated break-even point
+- Calculated ROI for Cloud A 
+- Attached spreadsheet and screenshots
