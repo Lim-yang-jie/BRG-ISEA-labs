@@ -21,3 +21,15 @@ Module repository
 - Calculated break-even point
 - Calculated ROI for Cloud A 
 - Attached spreadsheet and screenshots
+
+## Session 2b – Cloud VM & Bash Scripting
+
+- Launched Ubuntu EC2 instance and connected via SSH.
+- Updated server packages using apt.
+- Created ~/scripts directory and wrote bash scripts:
+  - hello.sh – echo example
+  - check_user.sh – if statement
+  - loop.sh – for loop
+- Made scripts executable with chmod +x.
+- Created a cron job that logs a timestamp.
+- Added screenshots of commands and outputs.
