@@ -33,3 +33,17 @@ Module repository
 - Made scripts executable with chmod +x.
 - Created a cron job that logs a timestamp.
 - Added screenshots of commands and outputs.
+
+## Session 3a – DNS
+
+- Installed DNS tools using dnsutils package.
+- Queried DNS records with dig:
+  - A, AAAA, MX, and NS records.
+- Compared DNS results using different resolvers:
+  - Cloudflare (1.1.1.1)
+  - Google DNS (8.8.8.8)
+- Observed DNS caching by comparing first vs repeated query times.
+- Performed reverse lookup with dig -x.
+- Used nslookup to verify DNS configuration.
+- Added all screenshots from commands.
+
