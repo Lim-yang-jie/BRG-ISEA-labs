@@ -56,3 +56,12 @@ Module repository
 - Viewed full certificate chains (server → intermediate → root).
 - Extracted certificate expiry and subject fields using OpenSSL.
 - Added screenshots of certificate details and chain output.
+
+## Session 4a – Web Server (Nginx)
+
+- Installed Nginx on my Ubuntu EC2 instance.
+- Started and enabled the nginx service using systemctl.
+- Located the web root at /var/www/html.
+- Created a custom page.
+- Viewed the webpage using the browser to IP.
+- Added screenshots of installation, service status, index.html editing, and webpage output.
