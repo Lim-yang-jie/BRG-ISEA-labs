@@ -47,3 +47,12 @@ Module repository
 - Used nslookup to verify DNS configuration.
 - Added all screenshots from commands.
 
+## Session 3b – Certificates (TLS/SSL)
+
+- Installed OpenSSL tools on the Ubuntu EC2 instance.
+- Fetched live certificates from websites:
+- Identified key certificate fields:
+  - Issuer, Subject, Expiry dates, SAN (Subject Alternative Names)
+- Viewed full certificate chains (server → intermediate → root).
+- Extracted certificate expiry and subject fields using OpenSSL.
+- Added screenshots of certificate details and chain output.
