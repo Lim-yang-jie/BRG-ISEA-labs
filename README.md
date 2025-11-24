@@ -75,3 +75,13 @@ Module repository
 - Checked disk usage using `df -h`.
 - Added screenshots for each command.
 
+
+## Session 5a – Server Automation
+- Created automation scripts folder.
+- Wrote two automation scripts:
+ - update.sh – runs apt update/upgrade and logs output.
+ - backup.sh – copies /var/www/html to ~/backup and logs output.
+- Made scripts executable.
+- Tested scripts manually and verified logging in `/var/log/task.log`.
+- Added scheduled cron jobs to run scripts every 6 hours.
+- Added screenshots of scripts, cron entry, and task.log output.
