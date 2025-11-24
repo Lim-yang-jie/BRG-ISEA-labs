@@ -1,3 +1,5 @@
+
+
 # BRG-ISEA-labs
 Module repository
 ## Session 1a 
@@ -66,15 +68,6 @@ Module repository
 - Viewed the webpage using the browser to IP.
 - Added screenshots of installation, service status, index.html editing, and webpage output.
 
-## Session 4b – Logging & Monitoring
-- Viewed system logs from `/var/log/syslog`.
-- Examined authentication logs from `/var/log/auth.log`.
-- Inspected Nginx access and error logs.
-- Monitored live processes using `top`.
-- Checked memory usage using `free -h`.
-- Checked disk usage using `df -h`.
-- Added screenshots for each command.
-
 
 ## Session 5a – Server Automation
 - Created automation scripts folder.
@@ -85,3 +78,14 @@ Module repository
 - Tested scripts manually and verified logging in `/var/log/task.log`.
 - Added scheduled cron jobs to run scripts every 6 hours.
 - Added screenshots of scripts, cron entry, and task.log output.
+
+
+## Video Demonstration Requirements
+
+- Recorded a full narrated demonstration showing:
+  - Linux VM
+  - Cloud VM and SSH access
+  - DNS and HTTPS validation
+  - Bash scripts and cron jobs
+  - Additional server service setup
+- Provided webcam view and verbal explanation of decisions.
