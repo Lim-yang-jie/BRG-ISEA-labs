@@ -65,3 +65,13 @@ Module repository
 - Created a custom page.
 - Viewed the webpage using the browser to IP.
 - Added screenshots of installation, service status, index.html editing, and webpage output.
+
+## Session 4b – Logging & Monitoring
+- Viewed system logs from `/var/log/syslog`.
+- Examined authentication logs from `/var/log/auth.log`.
+- Inspected Nginx access and error logs.
+- Monitored live processes using `top`.
+- Checked memory usage using `free -h`.
+- Checked disk usage using `df -h`.
+- Added screenshots for each command.
+
